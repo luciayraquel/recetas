@@ -1,3 +1,15 @@
 .portfolio-modal .modal-content {
   text-align: justify !important;
 }
+#boton {
+  background-color: #10B07F;
+}
+#boton:hover{
+  background-color: #1C6C53;
+}
+#blue{
+  background-color: #10B07F;
+}
+#enviar {
+  background-color: #10B07F;
+}
